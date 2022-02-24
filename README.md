@@ -11,6 +11,7 @@ Técnologias utilizadas:
 * HTML
 * CSS con Boostrap 4.6
 * JS con AngularJS 1.8
+* Libreria JS highcharts para renderizado de grafica
 
 la lógica del consumo del API está en el archivo 
 
